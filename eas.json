@@ -10,9 +10,7 @@
       },
       "ios": {
         "buildConfiguration": "Debug",
-        "ios": {
-          "enterpriseProvisioning": "universal"
-        }
+        "enterpriseProvisioning": "universal"
       }
     },
     "preview": {
